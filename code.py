@@ -1,6 +1,6 @@
-a = float(input("Enter the first number: "))
-b = float(input("Enter the second number: "))
+first_number  = float(input("Enter first number: "))
+second_number = float(input("Enter second number: "))
 
-result = a + b
+result = first_number + second_number
 
-print(result)
+print("Result:", result)
